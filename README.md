@@ -6,12 +6,11 @@
 
 Tech Stack:
 
-- ⚡ Deep Learning: Keras, Tensorflow, Fastai
-- ⚡ Machine Learning: Scikit-learn, Pandas, Numpy
-- ⚡ Database: InfluxDB ,MSSQL Server
+- ⚡ Machine Learning: Keras, Tensorflow, Scikit-learn, Pandas
+- ⚡ Database: InfluxD, MSSQL Server
 - ⚡ Backend: Django
 - ⚡ Version Control: Git
-- ⚡ IDE: VS Code, Atom
+- ⚡ IDE: VS Code
 
 Soft Skills:
 
