@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mohammad
 ### I think we should always Learn, Think and then Create valuable products. That's what makes us feel alive as engineers.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mohammad-talaei-mt/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15022532)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mohammad-talaei-mt/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15022532) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/MtTalaei)
 
 🌱 Predicting the future has always been an important issue for human. It's hard and challenging and that's why I love it! I'm currently leading my start-up. We are working on the applications of machine learning and deep learning on quantitative finance. 
 
