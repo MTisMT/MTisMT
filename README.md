@@ -13,7 +13,9 @@ Tech Stack:
 
 Soft Skills:
 
-- TeamWork, Problem Solving, Leadership 
+-  Project Management
+-  Story Telling
+-  TeamWork
 
 ![MT's github stats](https://github-readme-stats.vercel.app/api?username=MTisMT&show_icons=true&theme=radical)
 <!--
