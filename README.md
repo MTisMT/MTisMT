@@ -6,9 +6,8 @@
 
 Tech Stack:
 
-- ⚡ Machine Learning: Keras, Tensorflow, Scikit-learn, Pandas
-- ⚡ Database: InfluxD, MSSQL Server
-- ⚡ Backend: Django
+- ⚡ Machine Learning: Keras, Tensorflow, XGBoost, Scikit-learn, Pandas
+- ⚡ Database: InfluxD, SQL
 - ⚡ Version Control: Git
 - ⚡ IDE: VS Code
 
