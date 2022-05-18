@@ -18,9 +18,9 @@ Soft Skills:
 -  Story Telling
 -  TeamWork
 
-![MT's github stats](https://github-readme-stats.vercel.app/api?username=MTisMT&show_icons=true&theme=radical)
 <!--
 **MTisMT/MTisMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MT's github stats](https://github-readme-stats.vercel.app/api?username=MTisMT&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15022532)
