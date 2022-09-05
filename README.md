@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Mohammad
-### I think we should always Learn, Think and then Create valuable products. That's what makes us feel alive as engineers.
+### We should always Learn, Think and then Create valuable products. That's what makes us feel alive as engineers and researchers.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mohammad-talaei-mt/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15022532) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/MtTalaei)
 
-🌱 Predicting the future has always been an important issue for human. It's hard and challenging and that's why I love it! I'm currently leading my start-up. We are working on the applications of machine learning and deep learning on quantitative finance. 
+🌱 Predicting the future has always been an important issue for human. It's hard and challenging and that's why it's interesting. I'm currently leading **([Fitech1](https://fitech1.com))**. We develope AI-based quantitative finance tools. 
 
 Tech Stack:
 
-- ⚡ Machine Learning: Keras, Tensorflow, XGBoost, Scikit-learn, Pandas
+- ⚡ Machine Learning: Tensorflow, Keras, XGBoost, Scikit-learn, Pandas
 - ⚡ Database: InfluxDB, SQL
-- ⚡ Backend (Web app): Django
+- ⚡ Backend (Web app): Django, WordPress
 - ⚡ Version Control: Git
-- ⚡ IDE: VS Code
+- ⚡ DevOps: Docker, Linux
 
 Soft Skills:
 
 -  Project Management
--  Story Telling
+-  Networking
 -  TeamWork
 
 <!--
