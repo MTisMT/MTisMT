@@ -8,7 +8,7 @@ Tech Stack:
 
 - ⚡ Machine Learning: Tensorflow, Keras, XGBoost, Scikit-learn, Pandas
 - ⚡ Database: InfluxDB, SQL
-- ⚡ Backend (Web app): Django, WordPress
+- ⚡ Backend (Web app): Django
 - ⚡ Version Control: Git
 - ⚡ DevOps: Docker, Linux
 
