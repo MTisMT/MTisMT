@@ -10,7 +10,7 @@ Tech Stack:
 - ⚡ Database: InfluxDB, SQLModel
 - ⚡ Backend (Web app): FastAPI
 - ⚡ Version Control: Git
-- ⚡ DevOps: Docker, Weights & Biases
+- ⚡ DevOps, MLOps: Docker, Weights & Biases
 
 Soft Skills:
 
