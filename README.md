@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Mohammad
-### We should always Learn, Think and then Create valuable products. That's what makes us feel alive!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mohammad-talaei-mt/)
-
-  Predicting the future has always been an important issue for humans. It's hard and challenging and that's why it's interesting. I'm currently leading **[TradeSet.ai](https://tradeset.ai)**. We develop AI-based forecasting systems, especially quantitative finance tools. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mohammad-talaei-mt/) 
 
 Tech Stack:
 
